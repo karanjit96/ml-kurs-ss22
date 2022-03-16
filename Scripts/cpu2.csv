@@ -1,0 +1,10 @@
+Manufacturer,CPU,Technology,Package,Pins,Clock,Transistors,,Year,,,
+MOS,6502,NMOS,,PDIP,40,,1.00,3510,,,
+MOS,6502A,NMOS,,PDIP,40,2.00,3510,,,,
+MOS,6502B,NMOS,,PDIP,40,3.0,,,,,
+Intel,8008,PMOS,PDIP,18,,3500,,1972,,,
+Intel,8080,NMOS,CDIP,40,,6000,,1974,,,
+Zilog,Z80,NMOS,CDIP,40,2.5,8500,1976,,,,
+Motorola,,6800,NMOS,,PDIP,40,,1.0,,4100,
+Motorola,,6809,NMOS,,PDIP,40,,1.0,,9000,1978
+Motorola,,68000,HMOS,,PDIP,64,,10.0,,68000,1979
